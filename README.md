@@ -26,8 +26,8 @@ Over the years, I have developed extensive knowledge in the following technologi
 ### Get in touch 
 - Email:[edem.agbenyo@gmail.com](mailto:edem.agbenyo@gmail.com)
 - Portfolio: [https://edemagbenyo.com](https://edemagbenyo.com)
-- LinkedIn: [https://www.linkedin.com/in/edemagbenyo/](https://www.linkedin.com/in/edemagbenyo/)
-- Twitter: [https://www.twitter.com/edemagbenyo/](https://www.twitter.com/edemagbenyo/)
+- LinkedIn: [Edem Agbenyo](https://www.linkedin.com/in/edemagbenyo/)
+- Twitter: [Edem Agbenyo](https://www.twitter.com/edemagbenyo/)
 <!--
 **edemagbenyo/edemagbenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
