@@ -2,11 +2,7 @@ Hi there , I’m currently looking for work
 
 # Edem Agbenyo | @edemagbenyo
 
-<hr/>
-
 ## About me
-
-<hr/>
 
 ### Full Stack developer | Founder | Mentor
 
