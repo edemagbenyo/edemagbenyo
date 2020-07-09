@@ -1,6 +1,6 @@
-Hi there , I’m currently looking for work
+Hi there :wave: , I’m currently looking for work
 
-# Edem Agbenyo | @edemagbenyo
+# Edem Agbenyo :man_technologist: | @edemagbenyo
 
 ## About me
 
