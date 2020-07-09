@@ -1,6 +1,10 @@
-- Hi there, I’m currently looking for work
+- Hi there , I’m currently looking for work
 
-### Full Stack developer | Founder | Mentor
+## Edem Agbenyo | @edemagbenyo
+<hr/>
+### About me
+<hr/>
+#### Full Stack developer | Founder | Mentor
 
 Software Engineer with a  demonstrated 4 Years of working in the information technology and services industry. Experienced in developing Web and Mobile Applications for E-Commerce, Enterprise and Health sector. 
 I am passionate about ideating, building applications from the ground up and working in a startup as well as a medium-sized setting. 
@@ -19,9 +23,10 @@ Over my 4 years of working, I have developed extensive knowledge in the followin
 
 - Testing: PHPUnit, RSpec, React Testing Library
 
-
-Reach me out on edem.agbenyo@gmail.com or check out some of my works at edemagbenyo.com 
-
+### Contact 
+- Email:[edem.agbenyo@gmail.com](mailto:edem.agbenyo@gmail.com)
+- Portfolio: [https://edemagbenyo.com](https://edemagbenyo.com)
+- LinkedIn: [https://www.linkedin.com/in/edemagbenyo/](https://www.linkedin.com/in/edemagbenyo/)
 
 <!--
 **edemagbenyo/edemagbenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
