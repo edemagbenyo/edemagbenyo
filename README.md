@@ -1,10 +1,14 @@
 Hi there , I’m currently looking for work
 
-## Edem Agbenyo | @edemagbenyo
+# Edem Agbenyo | @edemagbenyo
+
 <hr/>
-### About me
+
+## About me
+
 <hr/>
-#### Full Stack developer | Founder | Mentor
+
+### Full Stack developer | Founder | Mentor
 
 Software Engineer with a  demonstrated 4 Years of working in the information technology and services industry. Experienced in developing Web and Mobile Applications for E-Commerce, Enterprise and Health sector. 
 I am passionate about ideating, building applications from the ground up and working in a startup as well as a medium-sized setting. 
