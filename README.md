@@ -9,7 +9,7 @@ Hi there :wave: , I’m currently looking for work
 Software Engineer with a  demonstrated 5 Years of working in the information technology and services industry. Experienced in developing Web and Mobile Applications for E-Commerce, Enterprise and Health sector. 
 I am passionate about ideating, building applications from the ground up and working in a startup as well as a medium-sized setting. 
 
-Over the years, I have developed extensive knowledge in the following technologies:
+Technologies I use:
 
 - Backend: PHP(CodeIgniter & Laravel), JavaScript(Node.js), Ruby(Ruby on Rails), GraphQL
 
