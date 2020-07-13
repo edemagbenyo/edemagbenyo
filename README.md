@@ -1,4 +1,4 @@
-Hi there :wave: , I’m currently looking for work
+Hi there :wave: , I’m currently open to work
 
 # Edem Agbenyo :man_technologist: | @edemagbenyo
 
