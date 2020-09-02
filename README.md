@@ -13,7 +13,7 @@ Technologies I use:
 
 - Backend: PHP(CodeIgniter & Laravel), JavaScript(Node.js), Ruby(Ruby on Rails), GraphQL
 
-- Frontend: React, Vue.js, ApolloClient, JQuery, Styled Component, Tailwindcss
+- Frontend: React, Vue.js, ApolloClient, JQuery,Bootstrap Styled Component, Tailwindcss
 
 - Mobile Application: React Native
 
