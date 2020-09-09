@@ -28,8 +28,8 @@ I am software Engineer with  over 5 Years of working in the information technolo
 <img height="40" src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
  </p>
 <p align='center'>
-  <summary> Github Stats</summary>
-  <img align="left" alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
+  <summary align='center'> Github Stats</summary>
+  <img align="center" alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
 </p>
 <!--
 **edemagbenyo/edemagbenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
