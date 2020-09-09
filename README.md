@@ -17,6 +17,7 @@ I am software Engineer with  over 5 Years of working in the information technolo
  </p>
 
 <h3 align='center'>Technologies and Tools</h3>
+
 <p align='center'>
 <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="40" src="https://img.icons8.com/offices/80/000000/php-logo.png"/>
@@ -26,10 +27,10 @@ I am software Engineer with  over 5 Years of working in the information technolo
 <img height="40" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 <img height="40" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img height="40" src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
- </p>
+</p>
 <p align='center'>
   <summary align='center'> Github Stats</summary>
-  <img align="center" alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
+  <img align='center' alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
 </p>
 <!--
 **edemagbenyo/edemagbenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
