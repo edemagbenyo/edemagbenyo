@@ -13,7 +13,7 @@ Full Stack developer | Founder | Mentor
 </h2>
  
 <p align='center'>
-I am software Engineer with  over 5 Years of working in the information technology and services industry. I spend most of my day crafting applications or working on open source projects.  When I am not with my computer, you can find me learning how to play the Piano. I am currently looking for opportunities.
+I am software Engineer with  over 5 Years of working in the information technology and services industry. I am passionate about crafting applications for the web or working on open source projects.  When I am not with my computer, you can find me learning how to play the Piano. I am currently looking for opportunities.
  </p>
 
 <h3 align='center'>Technologies and Tools</h3>
@@ -28,9 +28,9 @@ I am software Engineer with  over 5 Years of working in the information technolo
 <img height="40" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img height="40" src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 </p>
-<p align='center'>
   <summary align='center'> Github Stats</summary>
-  <img align='center' alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
+ <p align='center'>
+  <img alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
 </p>
 <!--
 **edemagbenyo/edemagbenyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
