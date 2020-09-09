@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello there! My name is Edem Agbenyo. 👋</h2>
+<h4 align="center">Hello there! My name is Edem Agbenyo. 👋</h4>
 
 <p align='center'>
  <a href="https://edemagbenyo.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>&nbsp;&nbsp;
@@ -13,13 +13,21 @@ Full Stack developer | Founder | Mentor
 </h2>
  
 <p align='center'>
-I am software Engineer with a  demonstrated 5 Years of working in the information technology and services industry. Experienced in developing Web and Mobile Applications for E-Commerce, Enterprise and Health sector. 
+I am software Engineer with  over 5 Years of working in the information technology and services industry. I spend most of my day crafting applications or working on open source projects.  When I am not with my computer, you can find me learning how to play the Piano. I am currently looking for opportunities.
  </p>
 
-
+<h3 align='center'>Technologies and Tools</h3>
+<p align='center'>
+<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/offices/80/000000/php-logo.png"/></p>
+<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/windows/64/000000/vuejs.png"/>
+<img src="https://img.icons8.com/officel/16/000000/react.png"/>
+<img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 <p align='center'>
   <summary> Github Stats</summary>
-
   <img align="left" alt="Edem Agbenyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edemagbenyo&show_icons=true&theme=buefy" />
 </p>
 <!--
