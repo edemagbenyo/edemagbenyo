@@ -13,7 +13,7 @@ Full Stack developer | Founder | Mentor
 </h2>
  
 <p align='center'>
-I am software Engineer with  over 5 Years of working in the information technology and services industry. I am passionate about crafting applications for the web or working on open source projects.  When I am not with my computer, you can find me learning how to play the Piano. I am currently looking for opportunities.
+I am software Engineer with a good eye for design. I am passionate about crafting applications for the web or working on open source projects.  When I am not with my computer, you can find me learning how to play the Piano. I am currently the lead of the Frontend team at Intent Technologies.
  </p>
 
 <h2 align='center'>Technologies and Tools</h2>
